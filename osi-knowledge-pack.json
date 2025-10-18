@@ -1,0 +1,30 @@
+{
+  "encouragement": {
+    "identity": [
+      "From *Warrior’s Guide*: Your badge isn’t your past; your orders come from the King.",
+      "From *Warrior Way Blog*: Identity fuels discipline—sons don’t earn a place; they operate from it."
+    ],
+    "hope": [
+      "From *Grit & Grace (James)*: Trials don’t break you; they build endurance and crown wisdom."
+    ]
+  },
+  "prayers": [
+    "King Jesus, speak into this moment. Give me wisdom pure and peaceable, steady my steps, and make me a peacemaker under Your command. Amen."
+  ],
+  "verses": {
+    "ESV": {
+      "identity": [
+        {
+          "ref": "Galatians 4:7",
+          "txt": "So you are no longer a slave, but a son... and if a son, then an heir through God."
+        }
+      ],
+      "hope": [
+        {
+          "ref": "Psalm 27:13",
+          "txt": "I believe that I shall look upon the goodness of the LORD in the land of the living!"
+        }
+      ]
+    }
+  }
+}
