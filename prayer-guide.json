@@ -1,17 +1,32 @@
 {
-  "title": "Bible Operator Prayer Guide",
-  "topics": [
-    {
-      "tag": "spiritual_warfare",
-      "content": "Prayer is both communication with Command and direct engagement with the enemy. Operators fight on their knees first."
-    },
-    {
-      "tag": "forgiveness",
-      "content": "No warrior advances carrying dead weight. Confession clears communication with Command; forgiveness removes enemy footholds."
-    },
-    {
-      "tag": "armor_of_god",
-      "content": "Operators wear the full armor daily—salvation, righteousness, truth, peace, faith, and the Word. Never step into battle unarmed."
+  "encouragement": {
+    "spiritual_warfare": [
+      "Armor up and hold the line. Replace lies with truth; speak Scripture out loud.",
+      "You’re not outgunned—you’re outfitted. Call for backup and stand firm."
+    ],
+    "forgiveness": [
+      "Confession clears comms; forgiveness removes enemy footholds.",
+      "Release them into God’s hands; travel light to move fast."
+    ],
+    "guidance": [
+      "You don’t need the whole map—just the next waypoint.",
+      "Seek counsel, pray, then move the ball downfield."
+    ]
+  },
+  "verses": {
+    "ESV": {
+      "spiritual_warfare": [
+        { "ref": "Ephesians 6:11", "txt": "Put on the whole armor of God, that you may be able to stand against the schemes of the devil." }
+      ],
+      "forgiveness": [
+        { "ref": "Ephesians 4:32", "txt": "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you." }
+      ],
+      "guidance": [
+        { "ref": "Proverbs 3:5–6", "txt": "Trust in the LORD with all your heart... he will make straight your paths." }
+      ]
     }
+  },
+  "prayers": [
+    "Lord of Hosts, strengthen me to pray first, hear Your voice, and obey quickly. Guard my mind and steady my steps. Amen."
   ]
 }
