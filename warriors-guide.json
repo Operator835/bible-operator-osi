@@ -1,17 +1,40 @@
 {
-  "title": "The Warrior's Guide to Biblical Manhood",
-  "topics": [
-    {
-      "tag": "leadership",
-      "content": "Biblical leadership means leading by example, service, and obedience to God rather than control or pride."
-    },
-    {
-      "tag": "marriage",
-      "content": "A man leads his home with love, humility, and sacrifice, modeling Christ’s relationship with the Church."
-    },
-    {
-      "tag": "fatherhood",
-      "content": "Train your children through presence and consistency. Discipline without relationship breeds rebellion."
+  "encouragement": {
+    "leadership": [
+      "Lead yourself first: Word, prayer, obedience. Authority flows from humility.",
+      "Set the tone at home—repent fast, encourage often, serve first."
+    ],
+    "marriage": [
+      "Fight for each other, not against each other. Pray briefly daily and serve first.",
+      "Honor your wife in public, understand her in private, and lead with sacrificial love."
+    ],
+    "parenting": [
+      "Correction + connection: win the heart, then the habit.",
+      "Consistency beats intensity. Model what you want multiplied."
+    ],
+    "identity": [
+      "Your past is not your rank. In Christ you’re chosen and commissioned.",
+      "Walk like a man under good orders—beloved and sent."
+    ]
+  },
+  "verses": {
+    "ESV": {
+      "leadership": [
+        { "ref": "Micah 6:8", "txt": "Do justice, and love kindness, and walk humbly with your God." },
+        { "ref": "1 Timothy 4:12", "txt": "Set the believers an example in speech, in conduct, in love, in faith, in purity." }
+      ],
+      "marriage": [
+        { "ref": "Ephesians 5:25", "txt": "Husbands, love your wives, as Christ loved the church and gave himself up for her." }
+      ],
+      "parenting": [
+        { "ref": "Proverbs 22:6", "txt": "Train up a child in the way he should go; even when he is old he will not depart from it." }
+      ],
+      "identity": [
+        { "ref": "1 Peter 2:9", "txt": "You are a chosen race, a royal priesthood..." }
+      ]
     }
+  },
+  "prayers": [
+    "King Jesus, teach me to lead by serving. Give me courage, humility, and ears that hear Your orders. Amen."
   ]
 }
